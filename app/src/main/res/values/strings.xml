@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestServeME</string>
+
+    <array name="uType">
+        <item>Employee</item>
+        <item>Seeker</item>
+        <item>Both</item>
+    </array>
+
+</resources>

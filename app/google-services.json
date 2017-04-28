@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "694475826289",
+    "firebase_url": "https://serveme-3b454.firebaseio.com",
+    "project_id": "serveme-3b454",
+    "storage_bucket": "serveme-3b454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694475826289:android:4c146f3527066620",
+        "android_client_info": {
+          "package_name": "com.example.isurubandara.testserveme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694475826289-ckflbvq7cgb7efilk5fbv4eok42rb0ve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.isurubandara.testserveme",
+            "certificate_hash": "bd35fff02b5928acb1f2d72cd0a7270741582adb"
+          }
+        },
+        {
+          "client_id": "694475826289-5ta8o5qmsrh5393tj22v95qauqs00np7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN6czhafXM4fndHv9VIg4lTxYb-R5_vVE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694475826289-5ta8o5qmsrh5393tj22v95qauqs00np7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
